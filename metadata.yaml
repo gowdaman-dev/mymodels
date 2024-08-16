@@ -1,7 +1,7 @@
-description: Ultralytics last model trained on /content/gdrive/My Drive/colab/project/config.yaml
+description: Ultralytics best model trained on /content/gdrive/My Drive/colab/hari_dataset/config.yaml
 author: Ultralytics
-date: '2024-08-04T17:27:38.429067'
-version: 8.2.72
+date: '2024-08-16T03:45:02.045564'
+version: 8.2.78
 license: AGPL-3.0 License (https://ultralytics.com/license)
 docs: https://docs.ultralytics.com
 stride: 32
@@ -11,4 +11,4 @@ imgsz:
 - 640
 - 640
 names:
-  0: tester
+  0: hariharan
